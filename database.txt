@@ -1,0 +1,9 @@
+#6;good;1;file1.txt;1;#
+#7;hi;2;file1.txt;2;file2.txt;1;#
+#7;hello;1;file1.txt;1;#
+#12;morning;1;file1.txt;1;#
+#18;sup;1;file2.txt;1;#
+#18;spu;1;file2.txt;1;#
+#18;shh;1;file2.txt;1;#
+#22;world;2;file1.txt;1;file2.txt;1;#
+#22;wassup;1;file1.txt;1;#
